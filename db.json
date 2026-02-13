@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "rahul2",
+      "email": "rahul2@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Monaj",
+      "email": "monaj@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "Nesha",
+      "email": "nesha@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "Aswin ",
+      "email": "aswin@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "todos": [
+    {
+      "text": "Js",
+      "done": false,
+      "id": 3
+    },
+    {
+      "text": "React",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
